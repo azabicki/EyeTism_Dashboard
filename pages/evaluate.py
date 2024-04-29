@@ -42,8 +42,7 @@ with col_recording:
 with col_btn:
     go_analyse = False
     go_analyse = st.button(
-        "Analyse",
-        disabled=False if st.session_state.eval_meas else True
+        "Analyse", disabled=False if st.session_state.eval_meas else True
     )
 
 # preogress bar
