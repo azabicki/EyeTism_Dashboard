@@ -5,7 +5,7 @@
 
 This Github repository contains only the Streamlit dashboard, which is hostet on the streamlit cloud and can be accessed anytime at [eyetism.streamlit.app](https://eyetism.streamlit.app).
 
-The complete work of the Capstone project "EyeTism - Eye Movement Based Autism Diagnostics" can be viewed in our [**EyeTism repository**](https://githubu.com/eockfen/eyetism).
+The complete work of the Capstone project "EyeTism - Eye Movement Based Autism Diagnostics" can be viewed in our [**EyeTism repository**](https://github.com/eockfen/eyetism).
 
 # About
 
